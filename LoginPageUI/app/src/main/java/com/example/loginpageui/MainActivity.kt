@@ -39,6 +39,6 @@ class MainActivity : AppCompatActivity() {
         signIn.setOnClickListener() {
             startActivity(Intent(this@MainActivity, NewActivity::class.java))
         }
-
+    // test
     }
 }
