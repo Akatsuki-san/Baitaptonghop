@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:padding="15dp"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <com.example.customfontstextviewexample.custom_textview.GreatVibesRegularTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:textSize="25dp"
+        android:text="Hoc Android TinCoder"/>
+    <com.example.customfontstextviewexample.custom_textview.MontserratAlternatesTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:textSize="25dp"
+        android:text="Hoc Android TinCoder"/>
+    <com.example.customfontstextviewexample.custom_textview.OpenSansTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:textSize="25dp"
+        android:text="Hoc Android TinCoder"/>
+    <com.example.customfontstextviewexample.custom_textview.RalewayBlackTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:textSize="25dp"
+        android:text="Hoc Android TinCoder"/>
+    <com.example.customfontstextviewexample.custom_textview.RobotoBlackTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:textSize="25dp"
+        android:text="Hoc Android TinCoder"/>
+
+
+
+</LinearLayout>
